@@ -16,7 +16,7 @@
 - Ongoing Independent Reseach Project
   
 
-## Work Experience
+## Work Experiences
 **Lecturer @ Department of Computer Science and Engineering, BRAC University, Bangladesh (_June 2023 - Present_)**
 
 <!-- ## Achievements
