@@ -6,18 +6,18 @@
 - BSC in Computer Science and Engineering | BUET (__June 2023__)
 
 ## Research Projects
-** Common-sense Reasoning in Bangla | A Question Answering Bot that knows beyond the context **
+**Common-sense Reasoning in Bangla | A Question Answering Bot that knows beyond the context**
 - NLP based undergraduate thesis
 
-** A study on Self-Sovereign Identity (SSI) to enhance Security of Online Identity **
+**A study on Self-Sovereign Identity (SSI) to enhance Security of Online Identity**
 - Ongoing Research Project
 
-** Radio Frequency Interference Mitigation through Machine Learning and Deep Learning Techniques **
+**Radio Frequency Interference Mitigation through Machine Learning and Deep Learning Techniques**
 - Ongoing Independent Reseach Project
   
 
 ## Work Experience
-** Lecturer @ Department of Computer Science and Engineering, BRAC University, Bangladesh (__June 2023 - Present__) **
+**Lecturer @ Department of Computer Science and Engineering, BRAC University, Bangladesh (__June 2023 - Present__)**
 
 <!-- ## Achievements
 some -->
