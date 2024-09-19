@@ -2,4 +2,5 @@ title: Hello There!
 logo: /assets/img/headshot.jpg
 description: "Let's work together to build a better world! Shall we?"
 #show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
+
