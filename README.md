@@ -6,6 +6,7 @@ _Links_
 - [My github profile](https://github.com/prantik-paul-99)
 - [My linked-in profile](
 https://www.linkedin.com/in/prantik-paul-743208271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ---
 
 - [My Education](#Education)
