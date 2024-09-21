@@ -1,7 +1,7 @@
 # Security, HCI and AI enthusiast 
 ---
 - [My Education](#Education)
-- [My Work Experience](#WorkExperience)
+- [My Work Experience](#Work-Experience)
 - [My Research Projects](#ResearchProjects)
 - [My Academic Projects](#AcademicProjects)
 - [My Achievements](#Achievements)
