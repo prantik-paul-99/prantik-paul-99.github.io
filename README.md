@@ -2,8 +2,8 @@
 ---
 - [My Education](#Education)
 - [My Work Experience](#Work-Experience)
-- [My Research Projects](#ResearchProjects)
-- [My Academic Projects](#AcademicProjects)
+- [My Research Projects](#Research-Projects)
+- [My Academic Projects](#Academic-Projects)
 - [My Achievements](#Achievements)
 
 ## About me
