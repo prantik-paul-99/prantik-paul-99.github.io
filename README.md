@@ -1,10 +1,20 @@
 # Security, HCI and AI enthusiast 
+
 ---
+
+_Links_ 
+- [My github profile](https://github.com/prantik-paul-99)
+- [My linked-in profile]()
+
+---
+
 - [My Education](#Education)
 - [My Work Experience](#Work-Experience)
 - [My Research Projects](#Research-Projects)
 - [My Academic Projects](#Academic-Projects)
 - [My Achievements](#Achievements)
+
+--- 
 
 ## About me
 #### I am an aspiring Engineer and Educator in the field of Computer Science, driven about research on Computer and online Security and Human Computer Interaction. I am enthusiastic to explore the applications of Artificial Intelligence and Machine Learning in practical fields, including enhancement and protection of User Security. I am currently looking forward to pursue a PhD program in the field of Computer Security. 
@@ -44,9 +54,11 @@ Being a teacher and shaping young mind has been one of my lifelong dreams. I am 
 
 **Radio Frequency Interference Mitigation through Machine Learning and Deep Learning Techniques**
 - Ongoing Independent Reseach Project
+  
 ---
 
 ## Academic Projects
+
 **Building a C Compiler from Scratch**
 - An implementation with Bison, Flex
 - See code here!
