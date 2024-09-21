@@ -25,11 +25,13 @@
 - Machine Learning
 - Simulation and Modelling
 - Linear Algebra
-- Statistics and Probability 
+- Statistics and Probability
+
 ---
 
 ## Work Experience
-#### I have been serving as a lecturer in [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/) since *June 2023*. Being a teacher and shaping young mind has been one of my lifelong dreams. I am very fortunate to be able to serve the community through teaching. Check out my [faculty profile](https://cse.sds.bracu.ac.bd/faculty_profile/129/prantik_paul)! 
+#### I have been serving as a lecturer in [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/) since *June 2023*. 
+Being a teacher and shaping young mind has been one of my lifelong dreams. I am very fortunate to be able to serve the community through teaching. Check out my [faculty profile](https://cse.sds.bracu.ac.bd/faculty_profile/129/prantik_paul)! 
 
 ---
 
@@ -49,7 +51,7 @@
 - An implementation with Bison, Flex
 - See code here!
   
-**Implementation of Congestion Control Algorithm *TCP SANTA CRUZ* **
+**Implementation of Congestion Control Algorithm _TCP SANTA CRUZ_**
 - An implementation in Network Simulator 3
 - See code here!
 
