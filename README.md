@@ -15,11 +15,11 @@ https://www.linkedin.com/in/prantik-paul-743208271?utm_source=share&utm_campaign
 
 ---
 
-- [My Education](#Education)
-- [My Work Experience](#Work-Experience)
-- [My Research Projects](#Research-Projects)
-- [My Academic Projects](#Academic-Projects)
-- [My Achievements](#Achievements)
+- [My Education](##Education)
+- [My Work Experience](##Work-Experience)
+- [My Research Projects](##Research-Projects)
+- [My Academic Projects](##Academic-Projects)
+- [My Achievements](##Achievements)
 
 --- 
 
