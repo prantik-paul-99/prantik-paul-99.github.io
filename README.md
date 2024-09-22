@@ -1,8 +1,14 @@
 # Security, HCI and AI enthusiast 
+---
+
+Current reads
+- _Mahajatra_ by Dibakar Das
+- _More days at the Morisaki Bookshop_ by Satoshi Yagisawa
+- _Before the Coffee Gets Cold_ by Toshikazu Kawaguchi
+- _Mahabharata Unravelled: Lesser-Known Facets of a Well-Known History_ by Ami Ganatra
 
 ---
 
-_Links_ 
 - [My github profile](https://github.com/prantik-paul-99)
 - [My linked-in profile](
 https://www.linkedin.com/in/prantik-paul-743208271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
