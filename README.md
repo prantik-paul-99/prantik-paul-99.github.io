@@ -48,31 +48,96 @@ Being a teacher and shaping young mind has been one of my lifelong dreams. I am 
 
 ## Research Projects
 **Common-sense Reasoning in Bangla | A Question Answering Bot that knows beyond the context**
-- NLP based undergraduate thesis
+- This is my NLP based undergraduate thesis under the supervision of [Dr Rifat Shahriyar](https://cse.buet.ac.bd/faculty/faculty_detail/rifat)
+- We aimed at building an artificially intelligent system that will be able to incorporate common-sense reasoning in crucial tasks currently performed by intelligent agents. Focusing on natural language processing, we selected the task of text-based question answering in Bangla for this project which was a novel work in this language. We initially built a knowledge graph for Bangla, which worked as the knowledge base for the system to incorporate relevant knowledge with contextual knowledge for answering the questions. We are currently working to furnish this work and looking for scopes to apply common-sense reasoning in relevant fields.
 
 **A study on Self-Sovereign Identity (SSI) to enhance Security of Online Identity**
-- Ongoing Research Project
+- Ongoing Research Project under the supervision of [Dr Md Sadek Ferdous](https://msferdous.info/)
+- SSI is a distinct online user identity that invalidates the need for multiple user identities for multiple applications. We are exploring effective ways to use decentralized systems for implementing SSI. Our end goal is to ideally provide the entire control of user data to the user itself instead of third-party applications, ensuring utmost privacy and data-security for the users.
 
 **Radio Frequency Interference Mitigation through Machine Learning and Deep Learning Techniques**
-- Ongoing Independent Reseach Project
+- Ongoing Independent Reseach Project with Multiple Collaborators
+- We are currently working on a comprehensive review of the AI methods used for this purpose. Our end goal is to provide an automated pipeline to remove interference from astronomical data from telescopes.
   
 ---
 
 ## Academic Projects
 
 **Building a C Compiler from Scratch**
-- An implementation with Bison, Flex
-- See code here!
+- A C compiler capable to handle basic functions (Algebraic, Logical, Conditionals, Loop etc)
+- Language : C++, Flex, Bison
+- [See code here!]()
   
 **Implementation of Congestion Control Algorithm _TCP SANTA CRUZ_**
 - An implementation in Network Simulator 3
-- See code here!
+- Language: C++
+- [See code here!]()
+
+**Memory Management in Demo Operating System**
+- Operating System Project with XV6
+- Language: C, Assembly
+- [See code here!]()
+
+**Heart Condition Classifier from ECG images**
+- Deep Learning Project
+- Supervisor : [Dr. Mohammad Saifur Rahman](https://cse.buet.ac.bd/faculty/faculty_detail/mrahman)
+- Language : Python
+- Framework : PyTorch, TensorFlow
+- [See code here!]()
+
+**Bangla Digit Recognition : A CNN Implementation (From Scratch)**
+- A Machine Learning Project
+- Language : Python
+- [See code here!]()
+
+**COMPASS: A Recommendation System**
+- Software Development Project
+- Language : Javascript, CSS
+- Library : Node.js, Express.js
+- Database : MongoDB
+- Frontend : React
+- [See code here!]()
+
+**Mobile Service Management Application**
+- Database Project
+- An Application to manage all your mobile related functionalities.
+- Language : Javascript, CSS
+- Library : Node.js, Express.js
+- Database : Oracle
+- Frontend : React
+- [See code here!]()
+
+**Ray Tracing : Object Generator**
+- Computer Graphics Project
+- Language : C++
+- Library: OpenGL
+- [See code here!]()
+
+**Weather Based Home Automation System**
+- Micro-controller Project
+- Language: C, Python
+- Tools : ATMega32, AVR Programmer, Water Sensor, DHT11 Humidity and Temparature Sensor, DC Stepper Motor, LCD, HC05 Bluetooth Module
+- [See code here!]()
+
+**TreasureHunt**
+- Java Networking Project
+- Language : Java
+- Library: JavaFX
+- [See code here!]()
+
+**Personal Diary Management**
+- C project done with Igraphics
+- Language : C
+- Library: Igraphics
+- [See code here!]()
 
 ---
 
 
 ## Achievements
 - Achieved the prestigious Dean's Award in each term during my Undergraduate studies *(2018-2023)*
+- Achieved Talentpool Scholarship in Higher Secondary Level. Secured 1st position in scholarship merit list.
+- Achieved Talentpool Scholarship in Secondary Level. Secured 1st position in scholarship merit list.
 
 ---
 
