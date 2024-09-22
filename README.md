@@ -48,7 +48,7 @@ https://www.linkedin.com/in/prantik-paul-743208271?utm_source=share&utm_campaign
 
 ## Work Experience
 #### I have been serving as a lecturer in [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/) since *June 2023*. 
-Being a teacher and shaping young mind has been one of my lifelong dreams. I am very fortunate to be able to serve the community through teaching. Check out my [faculty profile](https://cse.sds.bracu.ac.bd/faculty_profile/129/prantik_paul)! 
+Being a teacher and shaping young minds has been one of my lifelong dreams. I am very fortunate to be able to serve the community through teaching. Check out my [faculty profile](https://cse.sds.bracu.ac.bd/faculty_profile/129/prantik_paul)! 
 
 ---
 
