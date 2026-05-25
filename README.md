@@ -24,7 +24,7 @@ https://www.linkedin.com/in/prantik-paul-743208271?utm_source=share&utm_campaign
 --- 
 
 ## About me
-#### I am an aspiring Engineer and Educator in the field of Computer Science, driven about research on Computer and online Security and Human Computer Interaction. I am enthusiastic to explore the applications of Artificial Intelligence and Machine Learning in practical fields, including enhancement and protection of User Security. I am currently looking forward to pursue a PhD program in the field of Computer Security. 
+#### I am an aspiring Engineer and Educator in the field of Computer Science, driven about research on Computer and online Security and Human Computer Interaction. I am enthusiastic to explore the applications of Artificial Intelligence and Machine Learning in practical fields, including enhancement and protection of User Security. Currently I am a doctoral student in Computer Security at University of Illinois Chicago. 
 
 ---
 
