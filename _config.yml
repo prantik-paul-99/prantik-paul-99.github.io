@@ -1,4 +1,5 @@
 title: Prantik Paul
 logo: /assets/img/headshot.jpg
 description: "Let's work together to build a better world! Shall we?"
-# theme: jekyll-theme-minimal
+#show_downloads: true
+theme: jekyll-theme-minimal
