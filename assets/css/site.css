@@ -795,10 +795,7 @@ body[data-page="home"] .hero .portrait-card {
 }
 
 .page-hero-wrap {
-    padding: 0;
-    background: transparent;
-    border: 0;
-    box-shadow: none;
+    padding: 2rem;
 }
 
 /* Minimal right-side hero graphics: one sober block + small icon */
